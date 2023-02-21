@@ -1,1 +1,7 @@
-# pm-intro-guide
+# Product Management Internship Starting Guide
+
+### Introduction
+When starting out as a Product management intern it's difficult to know where to start and how to collect all of the details of your discovery and your project. Luckily, tools and processes have been created to help organize this process and create formal documentation. Becoming a PM can often be challenging or daunting because it isn't taught in formal education settings, it truly is a learned practice. This guide is to provide detail on how you can get started, who will will be working with throughout your internship and what your relationship with them will be like, and how you can use the proper tools to create a smooth track for conducting discovery all the way to implementing features in production
+
+### Document Contents Summary
+The "Product_Mangement_Internship_Track.pdf" document will outline the information outlined in the introduction above. You will notice that the document has two discint portions. Part 1 is a getting started guide, this will outline your experience and parts of being a PM that will be valuable for your initial experiences as a PM. The second portion is a guide created by Bindiya Thakkar on how to create an EPIC Document. This might be unfamiliar to you, but the getting started section will get you up to speed. I hope you find these tools helpful on your first steps as a PM, best of luck on your internship!
